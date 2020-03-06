@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
+
+## Installing the project
+
+First, Pull the project:
+
+```bash
+git clone https://github.com/MShokry/next.git
+```
+First, Install:
+```bash
+yarn
+```
+
 ## Getting Started
 
 First, run the development server:
